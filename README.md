@@ -1,2 +1,0 @@
-# CoderHouse
-Created with CodeSandbox
